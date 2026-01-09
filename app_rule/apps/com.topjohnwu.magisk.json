@@ -10,5 +10,6 @@
     "recommendation": "@unnecessary",
     "behaviors": [
         "@standard"
-    ]
+    ],
+    "non_standard_files": []
 }
